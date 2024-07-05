@@ -12,7 +12,8 @@ Enable `selector` for the dark mode.
 export default {
   darkMode: 'selector',
   // ...
-}```
+}
+```
 
 **Optional**: Add the `data-theme` attribute to the `html` tag.
 
