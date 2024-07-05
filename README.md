@@ -28,3 +28,7 @@ export default {
 ```html
 <script src="https://cdn.jsdelivr.net/gh/gasatrya/tw-toggle@1.0.0/tw-theme-toggle.min.js"></script>
 ```
+
+## Demo
+
+[https://tailspace.vercel.app/components/team/team-a.html](https://tailspace.vercel.app/components/team/team-a.html)
