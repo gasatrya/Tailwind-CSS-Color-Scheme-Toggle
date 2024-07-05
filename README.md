@@ -23,10 +23,10 @@ export default {
 </html>
 ```
 
-3. Load the script.
+3. Load the script before the `body` tag.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/gasatrya/tw-toggle@1.0.0/tw-theme-toggle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gasatrya/tw-toggle@1.0.0/tw-theme-toggle.js" defer></script>
 ```
 
 ## Demo
