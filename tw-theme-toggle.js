@@ -43,7 +43,7 @@ render(html`<${App} />`, document.body);
 // Add CSS to the page
 const style = document.createElement("style");
 style.textContent = `
-  #theme-toggle { position: fixed; bottom: 20px; right: 20px; display: flex; align-items: center; border-radius: 9999px; padding: 10px 15px; cursor: pointer; font-size: 14px; }
+  #theme-toggle { position: fixed; top: 20px; right: 20px; display: flex; align-items: center; border-radius: 9999px; padding: 10px 15px; cursor: pointer; font-size: 14px; }
   #theme-toggle svg { margin-right: 5px; width: 24px; height: 24px; }
   .light #theme-toggle { border: 1px solid rgb(0 0 0 / 0.2); }
   .dark #theme-toggle { border: 1px solid rgb(255 255 255 / 0.2); }
