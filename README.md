@@ -10,9 +10,9 @@ Floating button to toggle dark mode for Tailwind CSS
 /** @type {import('tailwindcss').Config} */
 
 export default {
-  darkMode: 'selector',
+  darkMode: "selector",
   // ...
-}
+};
 ```
 
 2. **Optional**: Add the `data-theme` attribute to the `html` tag.
@@ -26,7 +26,11 @@ export default {
 3. Load the script before the `body` tag.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/gasatrya/tw-toggle@1.0.0/tw-theme-toggle.js" defer></script>
+<script
+  src="https://cdn.jsdelivr.net/gh/gasatrya/tw-toggle@1.0.1/tw-theme-toggle.min.js"
+  type="module"
+  defer
+></script>
 ```
 
 ## Demo
