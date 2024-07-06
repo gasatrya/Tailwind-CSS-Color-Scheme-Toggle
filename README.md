@@ -1,4 +1,4 @@
-# Tailwind CSS Color Scheme Toggle
+# Tailwind CSS Dark Mode Toggle
 
 Floating button to toggle dark mode for Tailwind CSS
 
